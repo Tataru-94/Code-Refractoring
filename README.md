@@ -20,6 +20,12 @@
 ```
 As well below you can find examples with underlined problems & solutions screenshots of before/after code:
 
-##Before
+## Before
+
+![before](assets/before.jpg)
+
+## After
+
+![after](assets/after.jpg)
 
 **Thank you for your assessment!**
