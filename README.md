@@ -22,7 +22,7 @@ As well below you can find examples with underlined problems & solutions screens
 
 ## Before
 
-![before](assets/before.jpg)
+![before](assets/before.JPG)
 
 ## After
 
