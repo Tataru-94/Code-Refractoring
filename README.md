@@ -15,7 +15,11 @@
  * managed the  CSS code in order to show less code with the same functionality
  * fixed broken link in html
  * adjusted the images/pading in CSS, that the demo matches the final product
+ * added comments in both html & css files, to shed clarity on code
   
 ```
+As well below you can find examples with underlined problems & solutions screenshots of before/after code:
+
+##Before
 
 **Thank you for your assessment!**
