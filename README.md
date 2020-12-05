@@ -26,6 +26,6 @@ As well below you can find examples with underlined problems & solutions screens
 
 ## After
 
-![after](assets/after.jpg)
+![after](assets/after.JPG)
 
 **Thank you for your assessment!**
