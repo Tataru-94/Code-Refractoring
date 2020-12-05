@@ -1,7 +1,7 @@
 # Code-Refractoring
 **The Main Objective** of this project is to improve the web **accesability** of the client's website.
 
-## In this project, I modified the code in the files:
+## * In this project, I modified the code in the files:
 
 ```
   * index.html
